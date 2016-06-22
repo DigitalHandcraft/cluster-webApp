@@ -1,0 +1,16 @@
+{
+		"email": "test@testdata.com",
+		"public_name" : "test_user",
+		"user_name" : "test user",
+		"message" : "I am a test user.", // 自己紹介文
+		"registered_interest" : [ // 自分が登録した趣味とそのカテゴリ
+			{
+				"category_id" : 1,
+				"category_name" : "プログラミング",
+				"interests" : {
+					"interest_id" : "1"
+					"interest_name" : "Ruby", 
+				}
+			}
+		]
+	}
